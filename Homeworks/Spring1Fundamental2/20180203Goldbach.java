@@ -1,4 +1,4 @@
-package laioffer;
+package Homeworks;
 class Test {
 	public static void main(String[] args){
 		for(int even = 4;even < 10000; even += 2){
