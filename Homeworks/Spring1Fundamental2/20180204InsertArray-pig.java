@@ -1,6 +1,6 @@
-package Laioffer;
+package Homeworks;
 
-public class Homework {
+public class InsertArray {
 	public static void main(String[] args){
 		int[] arr = {1,2,3,4,5,6,7,8,9};
 		insert(arr, 6, 61);
