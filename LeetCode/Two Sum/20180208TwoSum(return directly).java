@@ -11,8 +11,8 @@ public class TwoSum {
 
 		int i;
 		int j;
-		String m;
-		for(i = 0; i < num.length-1; i++){		//why there's a warning?
+		String m; //why there's a warning?
+		for(i = 0; i < num.length-1; i++){
 			for(j = i + 1; j < num.length; j++){
 				if(target - num[i] == num[j]){
 					return m = "The first indice is "+i+", the second indice is "+j+".";
