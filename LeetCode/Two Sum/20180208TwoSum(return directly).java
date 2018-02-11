@@ -11,16 +11,15 @@ public class TwoSum {
 
 		int i;
 		int j;
-		String m; //why there's a warning?
 		for(i = 0; i < num.length-1; i++){
 			for(j = i + 1; j < num.length; j++){
 				if(target - num[i] == num[j]){
-					return m = "The first indice is "+i+", the second indice is "+j+".";
+					return "The first indice is "+i+", the second indice is "+j+".";
 				}
 				continue;
 			}
 		}
-		return m = "There are no suitable two-numbers in the array.";
+		return "There are no suitable two-numbers in the array.";
 	}
 }
 
