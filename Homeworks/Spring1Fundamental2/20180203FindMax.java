@@ -1,5 +1,5 @@
-package Homeworks;
-public class FindMax {
+package Laioffer;
+public class Homework {
 	public static void main(String[] args){
 		int[] arr = {3,6,2,7,11,54};
 		int max = arr[0];

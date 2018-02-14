@@ -1,6 +1,6 @@
 package Laioffer;
 
-public class Homeworks {
+public class TraceOfMatrix {
 	public static void main(String[] args){
 		int[][] matrix1 = {{1,4,5,9},{2,9,8,-4},{8,1,-5,6},{4,22,5,10}};
 		trace(matrix1);
