@@ -30,4 +30,4 @@ public class PowAB {
 		}
 	}
 }
-//the result is wrong when a < 0
+//the result is wrong when a < 0.
