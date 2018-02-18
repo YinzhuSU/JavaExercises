@@ -30,3 +30,4 @@ public class PowAB {
 		}	
 	}
 }
+// I missed up 2^(-3) with (-2)^3, and the result is wrong when a < 0.
